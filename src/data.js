@@ -16,8 +16,8 @@ export const sliderItems = [
   {
     id: 3,
     img: "https://ecommercepngs.s3.amazonaws.com/pngegg+(2).png",
-    title: "Banner 2",
-    desc: "Descripción 2",
+    title: "Banner 3",
+    desc: "Descripción 3",
     bg: "fbf0f4",
   },
 ];
