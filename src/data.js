@@ -1,23 +1,23 @@
 export const sliderItems = [
   {
     id: 1,
-    title: "juajaj",
+    title: "Banner 1",
     img: "https://ecommercepngs.s3.amazonaws.com/pngegg.png",
-    desc: "Hello World 1",
+    desc: "Descripción 1",
     bg: "f5fafd",
   },
   {
     id: 2,
     img: "https://ecommercepngs.s3.amazonaws.com/pngegg+(1).png",
-    title: "Hola Perron",
-    desc: "MAMAMELO EN REVERSA JAJAJA.",
+    title: "Banner 2",
+    desc: "Descripción 2",
     bg: "fcf1ed",
   },
   {
     id: 3,
     img: "https://ecommercepngs.s3.amazonaws.com/pngegg+(2).png",
-    title: "este se pone a workear",
-    desc: "jajsjja sisas me mie",
+    title: "Banner 2",
+    desc: "Descripción 2",
     bg: "fbf0f4",
   },
 ];
